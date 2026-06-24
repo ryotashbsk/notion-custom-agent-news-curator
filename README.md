@@ -1,4 +1,4 @@
-# Notion Custom Agent News Curation
+# Notion Custom Agent News Curator
 
 Notionカスタムエージェントで、技術領域ごとの最新情報を収集・要約するための指示書を管理するリポジトリ。
 
